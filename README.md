@@ -22,4 +22,147 @@ Once deployed via **GitHub Pages**, the website will be available at:
 
 ## 📧 Contact
 - Email: [rahathossain4797@gmail.com](mailto:rahathossain4797@gmail.com)  
-- GitHub: [github.com/rahathossain](https://github.com/rahathossain)  
+- GitHub: [github.com/rahathossain](https://github.com/rahathossain)
+- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kazi Rahat Hossain | Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { font-family: Arial, sans-serif; }
+    .navbar { box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+    .section-title { font-size: 1.5rem; margin-top: 30px; border-bottom: 2px solid #0d6efd; display: inline-block; padding-bottom: 5px; }
+    .cv-section { margin-top: 40px; }
+    footer { margin-top: 50px; padding: 20px; background: #f8f9fa; text-align: center; }
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="#">Kazi Rahat Hossain</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="#cv">CV</a></li>
+        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<header class="bg-primary text-white text-center py-5">
+  <div class="container">
+    <h1 class="fw-bold">Kazi Rahat Hossain</h1>
+    <p>Mechanical Engineer | Researcher | CFD Enthusiast</p>
+    <a href="mailto:rahathossain4797@gmail.com" class="btn btn-light btn-sm">Get in Touch</a>
+  </div>
+</header>
+
+<section id="about" class="container my-5">
+  <h2 class="section-title">About Me</h2>
+  <p>I am pursuing a Master of Science in Mechanical Engineering at CUET with strong interests in CFD, multiphase flow, heat transfer, advanced materials, and additive manufacturing. Passionate about research and innovation, I have publications in international conferences and journals.</p>
+</section>
+
+<section id="cv" class="container my-5">
+  <h2 class="section-title">Curriculum Vitae</h2>
+
+  <div class="cv-section">
+    <h4>Education</h4>
+    <ul>
+      <li>B.Sc. in Mechanical Engineering, CUET (2019–2024), CGPA: 3.65/4.00</li>
+      <li>M.Sc. in Mechanical Engineering (Ongoing), CUET</li>
+    </ul>
+  </div>
+
+  <div class="cv-section">
+    <h4>Research Experience</h4>
+    <ul>
+      <li>Undergraduate Thesis: Numerical Analysis of Two Phase Ejector (Supervisor: Dr. Prasanjit Das)</li>
+      <li>CFD Research Group, CUET</li>
+    </ul>
+  </div>
+
+  <div class="cv-section">
+    <h4>Research Interests</h4>
+    <p>CFD | Multiphase Flow | Heat Transfer | High-Entropy Alloys | Advanced Materials | Additive Manufacturing | Biomedical Engineering | Hemodynamics | Fluid-Structure Interaction</p>
+  </div>
+
+  <div class="cv-section">
+    <h4>Publications</h4>
+    <ol>
+      <li>Numerical Analysis Of Two Phase Ejector For Enhanced Fluid Mixing – ICMAM 2024</li>
+      <li>Hematocrit Influence on Abdominal Aortic Aneurysms – ICMAM 2024</li>
+      <li>Nickel-Enhanced Brass Composites – ICERIE 2025</li>
+      <li>Vibration & Damping of Coir & Kenaf Composites – JET 2025</li>
+      <li>Heat Exchanger Performance – ICERIE 2025</li>
+      <li>Optimizing Sedan Car Aerodynamics – ICERIE 2025</li>
+    </ol>
+  </div>
+
+  <div class="cv-section">
+    <h4>Technical Skills</h4>
+    <p><strong>Design:</strong> SolidWorks, AutoCAD <br>
+       <strong>Simulation:</strong> LAMMPS, COMSOL, ANSYS, MATLAB <br>
+       <strong>Programming:</strong> Python, C, Arduino <br>
+       <strong>Other:</strong> LaTeX, Tecplot, HTRI, OVITO</p>
+  </div>
+
+  <div class="cv-section">
+    <h4>Awards</h4>
+    <ul>
+      <li>Technical scholarship (All semesters)</li>
+      <li>Board Scholarships: HSC, SSC, JSC</li>
+    </ul>
+  </div>
+
+  <div class="cv-section">
+    <h4>Professional Experience</h4>
+    <ul>
+      <li>Industrial Trainee, Reckitt Benckiser (2023)</li>
+      <li>Industrial Visit, Four H Printing and Die (2023)</li>
+    </ul>
+  </div>
+
+  <div class="cv-section">
+    <h4>Leadership & Activities</h4>
+    <ul>
+      <li>Debate Club Member, CUET Debating Society</li>
+      <li>Office Secretary, Greater Noakhali Student Forum</li>
+      <li>Member, ASME (2019–2023)</li>
+    </ul>
+  </div>
+
+  <div class="cv-section">
+    <h4>Languages</h4>
+    <p>Bengali (Native), English (Full Working Proficiency)</p>
+  </div>
+
+  <div class="cv-section">
+    <h4>References</h4>
+    <p><strong>Dr. Sajal Chandra Banik</strong> – Professor, CUET <br>Email: baniksajal@cuet.ac.bd</p>
+    <p><strong>Dr. Prasanjit Das</strong> – Professor, CUET <br>Email: prasanjit@cuet.ac.bd</p>
+  </div>
+</section>
+
+<section id="contact" class="container my-5">
+  <h2 class="section-title">Contact</h2>
+  <p><strong>Phone:</strong> +8801824488201</p>
+  <p><strong>Email:</strong> <a href="mailto:rahathossain4797@gmail.com">rahathossain4797@gmail.com</a></p>
+  <p><strong>GitHub:</strong> <a href="https://github.com/rahathossain">github.com/rahathossain</a></p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Kazi Rahat Hossain. All Rights Reserved.</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+
